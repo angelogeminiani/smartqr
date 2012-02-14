@@ -1,0 +1,33 @@
+{
+    "name": "smartforgejs",
+    "version": "1.0.0",
+	"author" : "Gian Angelo Geminiani <angelo.geminiani@gmail.com>",
+	"contributors" :  [ "Smartfeeling.org" ],
+    "dependencies": {
+        "qs": ">= 0.4.0",
+        "mime": ">= 0.0.1",
+        "formidable":">=1.0.8",
+        "connect":">=1.8.5",
+		"node-uuid": ">=1.2.0",
+		"sockjs":">=0.1.2",
+		"oauth": ">=0.8.4", 
+		"cookies": "0.1.x",
+		"keygrip": "0.1.x",
+		"mongodb": "0.9.x"
+    },
+    "devDependencies": {
+        "gently": "0.8.0",
+        "findit": "0.1.1",
+        "hashish": "0.0.4",
+        "urun": "0.0.4",
+        "utest": "0.0.3"
+    },
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "./index",
+    "scripts": {},
+    "engines": {
+        "node": "*"
+    }
+}

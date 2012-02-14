@@ -1,0 +1,17 @@
+{
+    "name": "qrparadise",
+    "version": "1.0.0",
+	"author" : "Gian Angelo Geminiani <angelo.geminiani@gmail.com>",
+	"contributors" :  [ "Smartfeeling.org" ],
+    "dependencies": {
+        "smartforgejs": ">= 0.0.1"
+    },
+    "directories": {
+        "lib": "./lib"
+    },
+    "main": "./index",
+    "scripts": {},
+    "engines": {
+        "node": "*"
+    }
+}
