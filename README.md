@@ -6,7 +6,7 @@
 
 ## QuickStart
 
-	Please, visit [SmartQR site](http://www.smartforge.com/smartqr)
+	Please, visit [SmartQR site](http://www.smartfeeling.org/smartqr)
 	for more details and news.
 	
 	Start with SmartQR is very easy:
