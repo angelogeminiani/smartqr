@@ -10,6 +10,7 @@ Please, visit [SmartQR site](http://www.smartfeeling.org/smartqr)
 for more details and news.
 	
 Start with SmartQR is very easy:
+
 	1) Configure HTTP server editing the file "smartqr/_workspace/settings/http.json".
 	
 	{
